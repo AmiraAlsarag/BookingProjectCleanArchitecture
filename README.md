@@ -13,7 +13,8 @@ A Reservation Api
 4.            Update existing reservation 
 
 5.            Delete existing reservation
-   i have also implemented the following 
+   i have also implemented the following
+
 1-Use generic repos
 
 
@@ -22,5 +23,5 @@ A Reservation Api
 3-Use Fluent API
 
 4- Use IEntityTypeConfiguration for Fluent APIs
-
+5- use cqrs design pattern
    
